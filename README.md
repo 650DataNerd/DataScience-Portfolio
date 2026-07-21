@@ -1,71 +1,228 @@
-# 📊 Lucy Kamau  Data Science Portfolio
+# 📊 Data Science Portfolio
 
-Python Software Engineer | Data Systems | AI & Financial Infrastructure
+> A curated collection of end-to-end data science, machine learning, and business analytics projects built using Python, SQL, and statistical analysis.
 
-Welcome to my portfolio! I use data science to drive smarter decisions for businesses, founders, and global communities. Below is a showcase of my ongoing and completed data projects across various industries, including business, economics, healthcare, and cryptocurrency markets.
+## 👋 About
 
-## 🔍 Featured Projects
+Hi, I'm **Lucy Kamau**, a **Python Software Engineer** with a background in **Statistics & Computer Science**.
 
-### 💰 Gender Pay Gap Analysis  
-**Tools:** Python, Pandas, Matplotlib, Seaborn  
-**Objective:** Investigate wage disparities between males and females using Kaggle wage data  
-**Key Insights:**  
-- Conducted statistical significance tests  
-- Visualized gender-based wage trends over time  
-- Highlighted persistent disparities across roles
+I enjoy building software and data systems that transform raw information into actionable insights. My work combines backend engineering, analytics, and applied AI to solve real business problems across finance, agriculture, operations, and digital products.
 
-### 🛒 E-Commerce Data Analytics  
-**Tools:** MySQL, Python, Matplotlib  
-**Objective:** Explore trends, revenue patterns, and top-performing product categories using Kaggle eCommerce data  
-**Highlights:**  
-- Identified top revenue drivers  
-- Used SQL joins and aggregations for business insight  
-- Visualized top brands and sales by category
+This repository showcases selected data science projects demonstrating exploratory analysis, machine learning, statistical modelling, business intelligence, and data visualization.
 
-### 🏥 Statistical Investigation: Healthcare Access & Equity  
-**Tools:** Python, Pandas, WHO GHO dataset  
-**Objective:** Explore the relationship between healthcare professionals and hospital bed availability  
-**Highlights:**  
-- Correlating the healthcare workforce to hospital capacity  
-- Regional analysis of midwives and nursing staff per 10,000 population  
-- Identified equity gaps across countries
+---
 
-### 📈 BTC/USD Price Prediction (Supervised ML)  
-**Tools:** Python, Scikit-learn, Regression models  
-**Objective:** Predict Bitcoin prices using regression techniques and technical indicators  
-**Highlights:**  
-- Engineered lag features + indicators  
-- Compared Linear, Ridge, and Random Forest regressors  
-- Evaluated using MAE, RMSE
+# 📁 Repository Structure
 
-### 🧠 BTC/USD Price Clustering (Unsupervised ML)  
-**Tools:** KMeans, DBSCAN, PCA, Python  
-**Objective:** Uncover patterns and anomalies in BTC price data using clustering algorithms  
-**Highlights:**  
-- Discovered latent clusters in BTC price behavior  
-- Detected outliers using DBSCAN  
-- Reduced dimensions with PCA  
-- Evaluated clustering using Silhouette Score
+```text
+DataScience-Portfolio
+│
+├── bitcoin-price-prediction/
+│
+├── ecommerce-analytics/
+│
+├── gender-pay-gap-analysis/
+│
+└── README.md
+```
 
-## 🧰 Core Stack
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=flat)
-![Statistics](https://img.shields.io/badge/Statistics-004D40?style=flat)
+# 🚀 Featured Projects
 
+---
 
-## 💼 About Me
-I'm a software engineer with a background in Statistics and Computer Science who enjoys building data systems, analytics pipelines, and AI-powered applications that help organizations make better decisions. This repository showcases selected data science and machine learning projects spanning business intelligence, predictive analytics, and financial data.
+## ₿ Bitcoin Price Prediction & Market Pattern Analysis
 
-💡 **Open to:**  
-- Remote freelance projects  
-- Grant-funded research  
-- Web3/Bitcoin analytics  
-- Dashboards + ML consulting  
+**Technologies**
 
-📬 [LinkedIn](https://www.linkedin.com/in/lucy-kamau-242675204) • [Email](mailto:lucyk7770@gmail.com)
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- LightGBM
+- Matplotlib
 
-_“Let’s build data tools that don’t just inform they transform.”_
+### Overview
+
+An end-to-end machine learning project exploring historical Bitcoin market behaviour using both supervised and unsupervised learning techniques.
+
+### Highlights
+
+- Feature engineering using lag variables
+- Bitcoin price prediction
+- Model evaluation
+- Market clustering using K-Means and DBSCAN
+- Correlation analysis
+- Time-series visualization
+
+**Skills Demonstrated**
+
+- Machine Learning
+- Feature Engineering
+- Time-Series Analysis
+- Data Visualization
+- Model Evaluation
+
+📂 **Project Folder**
+
+```
+bitcoin-price-prediction/
+```
+
+---
+
+## 🛒 E-commerce Analytics & Business Intelligence
+
+**Technologies**
+
+- Python
+- SQL
+- Pandas
+- Matplotlib
+
+### Overview
+
+Business intelligence analysis of e-commerce transaction data aimed at uncovering sales trends, pricing strategies, customer behaviour, and product performance.
+
+### Highlights
+
+- Revenue analysis
+- Category performance
+- Product ratings
+- Discount analysis
+- Inventory insights
+- SQL business queries
+
+**Skills Demonstrated**
+
+- SQL Analytics
+- Exploratory Data Analysis
+- Business Intelligence
+- Data Cleaning
+- Data Visualization
+
+📂 **Project Folder**
+
+```
+ecommerce-analytics/
+```
+
+---
+
+## 👩 Gender Pay Gap Analysis
+
+**Technologies**
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+
+### Overview
+
+A statistical analysis exploring wage disparities through exploratory data analysis and visualization techniques.
+
+### Highlights
+
+- Income distribution analysis
+- Wage trend analysis
+- Gender comparison
+- Statistical summaries
+- Data visualization
+
+**Skills Demonstrated**
+
+- Statistical Analysis
+- Exploratory Data Analysis
+- Python Analytics
+- Data Visualization
+- Insight Generation
+
+📂 **Project Folder**
+
+```
+gender-pay-gap-analysis/
+```
+
+---
+
+# 🛠 Tech Stack
+
+### Programming
+
+- Python
+- SQL
+
+### Data Science
+
+- Pandas
+- NumPy
+- Scikit-learn
+
+### Machine Learning
+
+- Regression
+- Clustering
+- Feature Engineering
+
+### Data Visualization
+
+- Matplotlib
+- Tableau
+- Power BI
+
+### Analytics
+
+- Exploratory Data Analysis
+- Statistical Analysis
+- Business Intelligence
+
+### Developer Tools
+
+- Git
+- GitHub
+- Jupyter Notebook
+
+---
+
+# 🎯 What This Portfolio Demonstrates
+
+This repository demonstrates practical experience in:
+
+- Building end-to-end analytics workflows
+- Cleaning and transforming raw datasets
+- Exploratory Data Analysis (EDA)
+- Machine Learning model development
+- Business Intelligence reporting
+- Statistical analysis
+- Data visualization
+- Communicating technical findings
+
+---
+
+# 🌱 Current Focus
+
+Alongside data science, I am currently building software and financial technology products focused on:
+
+- Backend Engineering with Python
+- AI-powered data systems
+- Bitcoin & financial infrastructure
+- Open-source software
+- Data automation
+
+---
+
+# 📬 Connect With Me
+
+**Lucy Kamau**
+
+**Python Software Engineer | Backend | Data Systems**
+
+- 💼 LinkedIn: https://linkedin.com/in/lucy-kamau-242675204
+- 💻 GitHub: https://github.com/650DataNerd
+- 📧 Email: lucyk7770@gmail.com
+
+---
+
+> *"The best data solutions don't just explain the past—they help build better decisions for the future."*
