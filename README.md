@@ -1,6 +1,6 @@
 # 📊 Lucy Kamau — Data Science Portfolio
 
-**Remote Data Consultant | Analytics Strategist | Python • SQL • Power BI | AI + Web3 | Open to Clients & Grants**
+Python Software Engineer | Data Systems | AI & Financial Infrastructure
 
 Welcome to my portfolio! I use data science to drive smarter decisions for businesses, founders, and global communities. Below is a showcase of my ongoing and completed data projects across various industries, including business, economics, healthcare, and cryptocurrency markets.
 
@@ -58,8 +58,7 @@ Welcome to my portfolio! I use data science to drive smarter decisions for busin
 
 
 ## 💼 About Me
-
-I’m Lucy — a data consultant and founder of [Ishlu Analytics](https://ishluanalytics.netlify.app/), helping creators, founders, and mission-driven orgs make smarter decisions with data.
+I'm a software engineer with a background in Statistics and Computer Science who enjoys building data systems, analytics pipelines, and AI-powered applications that help organizations make better decisions. This repository showcases selected data science and machine learning projects spanning business intelligence, predictive analytics, and financial data.
 
 💡 **Open to:**  
 - Remote freelance projects  
@@ -69,4 +68,4 @@ I’m Lucy — a data consultant and founder of [Ishlu Analytics](https://ishlua
 
 📬 [LinkedIn](https://www.linkedin.com/in/lucy-kamau-242675204) • [Email](mailto:lucyk7770@gmail.com)
 
-_“Let’s build data tools that don’t just inform — they transform.”_
+_“Let’s build data tools that don’t just inform they transform.”_
