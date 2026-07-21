@@ -1,4 +1,4 @@
-# 📊 Lucy Kamau — Data Science Portfolio
+# 📊 Lucy Kamau  Data Science Portfolio
 
 Python Software Engineer | Data Systems | AI & Financial Infrastructure
 
